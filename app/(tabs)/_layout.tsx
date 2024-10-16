@@ -12,28 +12,6 @@ export default function TabLayout() {
             headerShown: false,
             tabBarIcon: () => (
               <>
-                <h1>👋</h1>
-              </>
-            ),
-          }}
-        ></Tabs.Screen>
-        <Tabs.Screen
-          name="register"
-          options={{
-            headerShown: false,
-            tabBarIcon: () => (
-              <>
-                <h1>🧑</h1>
-              </>
-            ),
-          }}
-        ></Tabs.Screen>
-        <Tabs.Screen
-          name="list"
-          options={{
-            headerShown: false,
-            tabBarIcon: () => (
-              <>
                 <h1>🧾</h1>
               </>
             ),

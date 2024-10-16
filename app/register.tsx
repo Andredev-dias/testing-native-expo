@@ -7,7 +7,7 @@ export default function Register() {
       <View>
         <Text>Teste com Link</Text>
         <View>
-          <Link href={"/(tabs)"}>Ir para a lista</Link>
+          <Link href={"/"}>voltar</Link>
         </View>
       </View>
     </>
